@@ -1,0 +1,40 @@
+#
+#
+#   AlmanaPVP: A plugin developed by AlmanaX21 for his server.
+#
+#
+
+
+#   Base64 encoded kits saved.
+
+SWORD_KIT: ''
+
+BOW_KIT: ''
+
+#   No. of Upgrades: 15
+
+# Wooden-1, 2, 3
+# Stone-1, 2, 3
+# Iron-1, 2, 3
+# Diamond-1, 2, 3
+# Netherite-1, 2, 3
+
+SWORD_LIST: ''
+
+BOW_LIST: ''
+
+HELMET_LIST: ''
+
+CHEST_LIST: ''
+
+LEG_LIST: ''
+
+BOOT_LIST: ''
+
+DEATH_MESSAGES:
+  - ' got mauled by '
+  - ' was recked by '
+  - ' got slammed by '
+  - ' turned into tiny pieces by '
+  - ' was made into ashes by '
+  - ' was crushed by '

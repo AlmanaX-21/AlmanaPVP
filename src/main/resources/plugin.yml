@@ -1,0 +1,18 @@
+name: AlmanaPVP
+version: '${project.version}'
+main: me.almana.almanapvp.AlmanaPVP
+api-version: 1.18
+depend: [LuckPerms, Vault]
+commands:
+  savekit:
+    permission: almanapvp.admin
+    description: Sets the starter kits
+  getupgrades:
+    permission: almanapvp.admin
+    description: Checkout all the upgrades
+  itemtobase64:
+    permission: almanapvp.debug
+    description: Convert an item to base64.
+  base64toitem:
+    permission: almanapvp.debug
+    description: Converts base64 to item
